@@ -24,7 +24,7 @@ export default function Navbar() {
                 </ul>
                 </div>
                 <Link href="/" className="">
-                    <Image src={"/assets/logo.svg"} width={80} height={57} />
+                    <Image src={"/assets/logo.svg"} alt='logo' width={80} height={57} />
                 </Link>
             </div>
             <div className="navbar-center hidden lg:flex">
